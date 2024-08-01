@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Hello Tanvee, How are you ?"
+echo "Hello, How are you ?"
